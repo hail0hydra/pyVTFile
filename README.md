@@ -119,5 +119,6 @@ python main.py
 
 <br>
 
+<video src="https://0x0.st/oFJ-.mp4" width=80% controls></video>
 <!-- <img src="/crate/demo.mp4" type="video/mp4"/> -->
-![demo](https://0x0.st/oFJ-.mp4)
+<!-- ![demo](https://0x0.st/oFJ-.mp4) -->
