@@ -98,9 +98,9 @@ python main.py
 
 <br>
 
-- Works on any kind of file :)
+- Works on any kind of file :smile:
 
-- Interactive UI 8-)
+- Interactive UI :sunglasses:
 
 - Works on files of sizes upto `32 Mb !`
 
