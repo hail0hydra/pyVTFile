@@ -77,11 +77,11 @@ pip install -r rquirements.txt
 
 <br>
 
-> - make sure the `scan.png` is in same directory as `main.py`.
-
-<br>
-<br>
-
+> make sure the `scan.png` is in same directory as `main.py`.
+>
+>
+>
+>
 >run the program with
 ```
 python main.py
