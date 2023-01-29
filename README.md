@@ -119,5 +119,5 @@ python main.py
 
 <br>
 
-<img src="/crate/demo.mp4" type="video/mp4"/>
-<!-- [demo]("./crate/demo.mp4") -->
+<!-- <img src="/crate/demo.mp4" type="video/mp4"/> -->
+![demo](https://0x0.st/oFJ-.mp4)
