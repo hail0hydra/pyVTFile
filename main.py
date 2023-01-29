@@ -70,9 +70,9 @@ label.pack(pady=12, padx=10)
 
 
 # Image
-image = Image.open("scan.png")
-my_img = image.resize((50, 50))
-img = ImageTk.PhotoImage(Image.open("scan.png"))
+# image = Image.open("scan.png")
+# my_img = image.resize((50, 50))
+img = ImageTk.PhotoImage(Image.open("crate/scan.png"))
 imgLabel = Label(master = frame, image=img, borderwidth=0) 
 imgLabel.bind("<Button-1>", lambda event: on_drop())  # click on image and upload
 imgLabel.pack()

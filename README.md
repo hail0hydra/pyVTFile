@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<img src = "https://cdn.dribbble.com/users/2027828/screenshots/6040651/dribble_final.gif" style="height:300px;width:500px;">
+<img  src = "https://cdn.dribbble.com/users/2027828/screenshots/6040651/dribble_final.gif" style="height:300px;width:500px;">
 
 <br>
 <br>
@@ -47,34 +47,44 @@
 <br>
 <br>
 
-- Below commands will work on almost all Operating Systems, including `Windows`, `Linux` and `MacOS`.
+ Below commands will work on almost all Operating Systems, including `Windows`, `Linux` and `MacOS`.
 
 <br>
 <br>
 
+- Open up a [shell](https://en.wikipedia.org/wiki/Shell_(computing))
 
-> type in the shell:
+<br>
 
+> clone the repository
 ```bash
 git clone https://github.com/hail0hydra/pyVTFile.git
+```
+<br>
+
+> go into he directory
+```
+cd pyVTFile
 ```
 
 <br>
 
+
+> install required modules
 ```
 pip install -r rquirements.txt
 ```
 
 <br>
 
-> - make sure the `scan.png` is in same directory as `pyVTFile.py`.
+> - make sure the `scan.png` is in same directory as `main.py`.
 
 <br>
 <br>
 
 >run the program with
 ```
-python pyVTFile.py
+python main.py
 ```
 
 
@@ -109,3 +119,5 @@ python pyVTFile.py
 
 <br>
 
+<img src="/crate/demo.mp4" type="video/mp4"/>
+<!-- [demo]("./crate/demo.mp4") -->
