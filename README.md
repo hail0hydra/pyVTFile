@@ -119,6 +119,8 @@ python main.py
 
 <br>
 
-<video src="https://0x0.st/oFJ-.mp4" width=80% controls></video>
+<!-- <video src="https://0x0.st/oFJ-.mp4" width=80% controls></video> -->
 <!-- <img src="/crate/demo.mp4" type="video/mp4"/> -->
 <!-- ![demo](https://0x0.st/oFJ-.mp4) -->
+
+<video src="https://raw.githubusercontent.com/hail0hydra/pyVTFile/main/crate/demo.mp4" width=100% controls></video>
