@@ -3,11 +3,6 @@
 <br>
 <br>
 
-## Go to:
-
->#### 1. [Installation](#ins)
->#### 2. [Features](#fea)
->#### 3. [Demo](#demo)
 
 <br>
 <br>
@@ -23,6 +18,12 @@
 
 <br>
 <br>
+
+## Go to:
+
+>#### 1. [Installation](#ins)
+>#### 2. [Features](#fea)
+>#### 3. [Demo](#demo)
 
 <br>
 <br>
