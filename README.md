@@ -19,21 +19,32 @@
 <br>
 <br>
 
+---
+
+<br>
+<br>
+
 ## Go to:
 
->#### 1. [Installation](#ins)
->#### 2. [Features](#fea)
->#### 3. [Demo](#demo)
+#### - [prerequisties](#pre) :old_key:
+#### - [installation](#ins) :hammer_and_wrench:
+#### - [features](#fea) :interrobang:
+#### - [demo](#demo) :pirate_flag:
 
 <br>
 <br>
 <br>
 
-><h3 id="ins">Installation</h3>
+---
+
+<br>
+<br>
+
+
 
 <br>
 
-> #### Prequisites
+><h3 id="pre">Prequisites :old_key: </h3>
 
 <br>
 
@@ -46,6 +57,12 @@
 - [x] have [`git`](https://github.com/git-guides/install-git) present in your system or you can download ZIP of the repo
 <br>
 <br>
+<br>
+<br>
+
+
+><h3 id="ins">Installation :hammer_and_wrench: </h3>
+
 <br>
 <br>
 
@@ -71,32 +88,83 @@ cd pyVTFile
 
 <br>
 
-
 > install required modules
 ```
 pip install -r rquirements.txt
 ```
 
 <br>
+<br>
+<br>
 
->
->
->
->
->
+> ##### Additional Steps for Linux Based Systems
+
+<br>
+
+Skip these steps if you have `Tkinter` installed. To verify just type in
+
+```
+python -m tkinter
+```
+or
+
+```
+python3 -m tkinter
+```
+
+<br>
+<br>
+<br>
+
+
+- __Debian__
+
+```
+sudo apt-get install python-tk
+```
+<br>
+
+- __Arch Linux__
+
+```
+sudo pacman -S tk
+```
+
+<br>
+
+- __Fedora__
+
+```
+sudo dnf install python3-tkinter
+```
+
+<br>
+
+- __RHEL, CentOS, Oracle Linux__
+
+```
+sudo yum install -y tkinter tk-devel
+```
+
+<br>
+<br>
+
 >run the program with
 ```
 python main.py
 ```
 
+<br>
+<br>
 
+---
 
 
 <br>
 <br>
 <br>
 
-><h3 id="fea">Features</h3>
+><h3 id="fea">Features :interrobang: </h3>
 
 <br>
 
@@ -105,6 +173,10 @@ python main.py
 - Interactive UI :sunglasses:
 
 - Works on files of sizes upto `32 Mb !`
+
+-  Futuristic UI
+
+- Cross Platform
 
 
 <br>
@@ -117,13 +189,11 @@ python main.py
 <br>
 <br>
 
-><h2 id="demo"> Demo</h2>
+><h2 id="demo"> Demo :pirate_flag: </h2>
 
 <br>
 
-<!-- <video src="https://0x0.st/oFJ-.mp4" width=80% controls></video> -->
-<!-- <img src="/crate/demo.mp4" type="video/mp4"/> -->
-<!-- ![demo](https://0x0.st/oFJ-.mp4) -->
+
 
 
 https://user-images.githubusercontent.com/107790736/215345754-affde992-3b91-4d2e-ae53-52739a340df7.mp4
