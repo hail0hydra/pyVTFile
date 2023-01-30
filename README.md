@@ -37,11 +37,13 @@
 
 <br>
 
+- [x] Make sure you have an [API-KEY](https://en.wikipedia.org/wiki/API_key) which you can get after regitering at [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
 - [x] You must have Latest version of [`Python3`](https://www.python.org/downloads/) already installed. 
 
 - [x] You must have [`pip`](https://github.com/pypa/pip) in your system.
 
-- [x] have [`git`](https://github.com/git-guides/install-git) present in your system
+- [x] have [`git`](https://github.com/git-guides/install-git) present in your system or you can download ZIP of the repo
 <br>
 <br>
 <br>
@@ -77,7 +79,7 @@ pip install -r rquirements.txt
 
 <br>
 
-> make sure the `scan.png` is in same directory as `main.py`.
+>
 >
 >
 >
