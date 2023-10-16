@@ -90,7 +90,7 @@ cd pyVTFile
 
 > install required modules
 ```
-pip install -r rquirements.txt
+pip install -r requirements.txt
 ```
 
 <br>
