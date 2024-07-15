@@ -48,13 +48,13 @@
 
 <br>
 
-- [x] Make sure you have an [API-KEY](https://en.wikipedia.org/wiki/API_key) which you can get after regitering at [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [x] Make sure you have an [API-KEY](https://en.wikipedia.org/wiki/API_key) which you can get after registering at [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 - [x] You must have Latest version of [`Python3`](https://www.python.org/downloads/) already installed. 
 
 - [x] You must have [`pip`](https://github.com/pypa/pip) in your system.
 
-- [x] have [`git`](https://github.com/git-guides/install-git) present in your system or you can download ZIP of the repo
+- [x] You must have [`git`](https://github.com/git-guides/install-git) present in your system or you can download a ZIP of the repo
 <br>
 <br>
 <br>
@@ -116,15 +116,15 @@ python3 -m tkinter
 <br>
 <br>
 
-
-- __Debian__
+If tkinter is not installed, you can install it with one of these commands:
+- __Debian (APT)__
 
 ```
 sudo apt-get install python-tk
 ```
 <br>
 
-- __Arch Linux__
+- __Arch Linux (PACMAN)__
 
 ```
 sudo pacman -S tk
@@ -132,7 +132,7 @@ sudo pacman -S tk
 
 <br>
 
-- __Fedora__
+- __Fedora (DNF)__
 
 ```
 sudo dnf install python3-tkinter
@@ -140,7 +140,7 @@ sudo dnf install python3-tkinter
 
 <br>
 
-- __RHEL, CentOS, Oracle Linux__
+- __RHEL, CentOS, Oracle Linux (YUM)__
 
 ```
 sudo yum install -y tkinter tk-devel
